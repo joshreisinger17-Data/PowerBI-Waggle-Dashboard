@@ -19,7 +19,6 @@ This project showcases an interactive Power BI dashboard built to analyze custom
 - Drill-through navigation
 - Custom navigation buttons
 - Reset filter buttons
-- DAX calculations
 
 ---
 
@@ -54,7 +53,6 @@ This project showcases an interactive Power BI dashboard built to analyze custom
 - Dashboard Design
 - Business Intelligence
 - Data Analysis
-- DAX
 - Interactive Reports
 - Data Modeling
 - User Interface Design
